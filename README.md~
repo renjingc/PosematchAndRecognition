@@ -28,7 +28,7 @@ c++使用了keras_model.cc程序去调用keras模型,这里完全没有优化,�
 
 ![avatar](2.png)
 
-![avatar](2.pn)
+![avatar](2.png)
 
 
 
