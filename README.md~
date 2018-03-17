@@ -1,7 +1,5 @@
 # PosematchAndRecognition
 
-实现基于双目的十个动作识别
-
 ##运行说明
 程序都是用vs2013+opencv2.4.9.opencv已打包在内
 在matchAndRecognition里面训练文件夹是我整理好的图片数据
