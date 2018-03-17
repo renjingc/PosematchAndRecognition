@@ -25,8 +25,10 @@ c++使用了keras_model.cc程序去调用keras模型,这里完全没有优化,�
 
 效果
 ![avatar](1.jpg)
-![avatar](分类.jpg)
-![avatar](深度计算.jpg)
+
+![avatar](2.png)
+
+![avatar](2.png)
 
 
 
